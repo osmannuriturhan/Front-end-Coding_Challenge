@@ -8,6 +8,9 @@
 
 5-NewsPage => https://65281961530b2c398e55546d--lighthearted-choux-6e423b.netlify.app/
 
+6-CSS-Grid => https://653109be20dd4b1467626272--lambent-daffodil-fe78e5.netlify.app/
+
+7-İOS-Calculator => https://653109fbf5d6960fb1fe184a--boisterous-treacle-6f4961.netlify.app/
 
 Hello, this repo is one of my important steps towards becoming a front-end developer.
 
